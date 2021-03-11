@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-fazendo um teste na linha.
-=======
 Essa linha vai dar erro
 
 Israel edita aqui
@@ -10,4 +7,3 @@ Eu vou editar aqui
 Kamila aqui
 
 Eu editei aqui!
->>>>>>> d95545ae588624fe14d73b746c0231807c07354a
