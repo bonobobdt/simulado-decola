@@ -1,6 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Olá pessoal, tudo bem com vocês?
 Eu estou ótima e confiante nesse grupo kkk
 =======
 fazendo um teste na linha.
 >>>>>>> 00aefbb50880f54d777633c5c01e0e6ab558465a
+=======
+Essa linha vai dar erro
+
+Israel edita aqui
+
+Eu editei aqui!
+>>>>>>> 20c884f89ed63e01b76e585320eec37981a89d8b
